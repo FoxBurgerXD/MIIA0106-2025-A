@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526D6370-6D53-4D7B-A0F4-98C0C1187389}|lab4\\lab4.vcxproj|C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{526D6370-6D53-4D7B-A0F4-98C0C1187389}|lab4\\lab4.vcxproj|solutionrelative:lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B1B4A1-86A4-483A-9CFF-6486A006893A}|lab2\\lab2.vcxproj|C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4B1B4A1-86A4-483A-9CFF-6486A006893A}|lab2\\lab2.vcxproj|solutionrelative:lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE52BFB3-D9A9-4B47-AD5D-100C9A88602A}|lab3\\lab3.vcxproj|C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE52BFB3-D9A9-4B47-AD5D-100C9A88602A}|lab3\\lab3.vcxproj|solutionrelative:lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE960FCE-A21C-4C16-97A4-6870901782EA}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE960FCE-A21C-4C16-97A4-6870901782EA}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab4\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4\\lab4.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab4\\lab4.cpp",
+              "RelativeToolTip": "lab4\\lab4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:30:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab3\\lab3.cpp",
+              "RelativeDocumentMoniker": "lab3\\lab3.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab3\\lab3.cpp",
+              "RelativeToolTip": "lab3\\lab3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:28:24.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab2\\lab2.cpp",
+              "RelativeDocumentMoniker": "lab2\\lab2.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\lab2\\lab2.cpp",
+              "RelativeToolTip": "lab2\\lab2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:24:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:23:18.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
