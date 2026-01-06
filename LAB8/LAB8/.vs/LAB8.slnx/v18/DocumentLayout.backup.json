@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCED438-C307-4531-A715-3DE7D852EBCB}|lab8_6\\lab8_6.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\lab8_6\\lab8_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCED438-C307-4531-A715-3DE7D852EBCB}|lab8_6\\lab8_6.vcxproj|solutionrelative:lab8_6\\lab8_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB0B56-F14C-4D3F-BDD1-3C342E1F1113}|8_5\\8_5.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\8_5\\8_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24FB0B56-F14C-4D3F-BDD1-3C342E1F1113}|8_5\\8_5.vcxproj|solutionrelative:8_5\\8_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EDA2AE-9431-4035-AF72-821A158AB20D}|LAB8_4\\LAB8_4.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_4\\LAB8_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58EDA2AE-9431-4035-AF72-821A158AB20D}|LAB8_4\\LAB8_4.vcxproj|solutionrelative:LAB8_4\\LAB8_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEF4ED2-A616-4578-838B-D5A108A23EAD}|LAB8_3\\LAB8_3.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_3\\LAB8_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBEF4ED2-A616-4578-838B-D5A108A23EAD}|LAB8_3\\LAB8_3.vcxproj|solutionrelative:LAB8_3\\LAB8_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55085C97-5041-43B0-B60E-95C835EFF588}|LAB8_2\\LAB8_2.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_2\\LAB8_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55085C97-5041-43B0-B60E-95C835EFF588}|LAB8_2\\LAB8_2.vcxproj|solutionrelative:LAB8_2\\LAB8_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB982EF6-1385-4A70-8581-F3D984CB793B}|LAB8_1\\LAB8_1.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_1\\LAB8_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB982EF6-1385-4A70-8581-F3D984CB793B}|LAB8_1\\LAB8_1.vcxproj|solutionrelative:LAB8_1\\LAB8_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C779AAA-FD79-4B58-B170-A205771829B3}|LAB8\\LAB8.vcxproj|C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8\\LAB8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C779AAA-FD79-4B58-B170-A205771829B3}|LAB8\\LAB8.vcxproj|solutionrelative:LAB8\\LAB8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab8_6.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\lab8_6\\lab8_6.cpp",
+              "RelativeDocumentMoniker": "lab8_6\\lab8_6.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\lab8_6\\lab8_6.cpp",
+              "RelativeToolTip": "lab8_6\\lab8_6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:44:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "8_5.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\8_5\\8_5.cpp",
+              "RelativeDocumentMoniker": "8_5\\8_5.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\8_5\\8_5.cpp",
+              "RelativeToolTip": "8_5\\8_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:27:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB8_4.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_4\\LAB8_4.cpp",
+              "RelativeDocumentMoniker": "LAB8_4\\LAB8_4.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_4\\LAB8_4.cpp",
+              "RelativeToolTip": "LAB8_4\\LAB8_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:21:30.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB8_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_3\\LAB8_3.cpp",
+              "RelativeDocumentMoniker": "LAB8_3\\LAB8_3.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_3\\LAB8_3.cpp",
+              "RelativeToolTip": "LAB8_3\\LAB8_3.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:21:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB8_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_2\\LAB8_2.cpp",
+              "RelativeDocumentMoniker": "LAB8_2\\LAB8_2.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_2\\LAB8_2.cpp",
+              "RelativeToolTip": "LAB8_2\\LAB8_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:21:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB8_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_1\\LAB8_1.cpp",
+              "RelativeDocumentMoniker": "LAB8_1\\LAB8_1.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8_1\\LAB8_1.cpp",
+              "RelativeToolTip": "LAB8_1\\LAB8_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:20:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB8.cpp",
+              "DocumentMoniker": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8\\LAB8.cpp",
+              "RelativeDocumentMoniker": "LAB8\\LAB8.cpp",
+              "ToolTip": "C:\\Users\\Pooh_\\MIIA0106-2025-A\\LAB8\\LAB8\\LAB8\\LAB8.cpp",
+              "RelativeToolTip": "LAB8\\LAB8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:20:25.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
